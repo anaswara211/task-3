@@ -35,7 +35,7 @@
 .logo {
     height: 100px;
     padding-right: 200px;
-    padding-bottom: 50px;
+    margin-top: -30px;
 }
 .centered-div{
     top: 30px;
